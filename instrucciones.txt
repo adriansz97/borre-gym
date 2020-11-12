@@ -1,0 +1,23 @@
+ADMINISTRADOR DE GYM
+
+Usuario que cuando entre a la aplicación vea
+
+Usuario recién inscrito rutina full body
+
+Que el usuario escoja los ejercicios que debe realizar ej. Pecho tricep etc.
+
+ADMINISTRADOR
+Usuarios
+Ejercicios
+
+USUARIO
+El usuario ve la rutina que le toca
+El usuario ve los ejercicios disponibles
+
+
+Los administradores le asignaran los clientes a los entrenadores
+Las rutinas básicas las harán los administradores
+Los entrenadores tendrán que asignarle una rutina personalizada al cliente
+
+
+Ejercicio, repeticiones, series
